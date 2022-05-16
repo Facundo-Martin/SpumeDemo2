@@ -1,0 +1,2236 @@
+/* screen - spume-marketplace */
+
+.spume-marketplace {
+  background-color: #1f1d2b;
+  height: 3977px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.spume-marketplace .footer-kkQcp5 {
+  background-color: transparent;
+  height: 1066px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 2911px;
+  width: 1440px;
+}
+
+.spume-marketplace .rectangle-328-dqyKzD {
+  background-color: transparent;
+  height: 1066px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 1440px;
+}
+
+.spume-marketplace .spume-dqyKzD {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 167px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 543px;
+  width: 254px;
+}
+
+.spume-marketplace .group-1313-dqyKzD {
+  background-color: transparent;
+  height: 294px;
+  left: 492px;
+  position: absolute;
+  top: 550px;
+  width: 256px;
+}
+
+.spume-marketplace .marketplace-xjgnDA {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 254px;
+}
+
+.spume-marketplace .group-365-xjgnDA {
+  background-color: transparent;
+  height: 234px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 153px;
+}
+
+.spume-marketplace .home-xn5xUi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 75px;
+}
+
+.spume-marketplace .activity-xn5xUi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  width: 94px;
+}
+
+.spume-marketplace .explore-xn5xUi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  width: 110px;
+}
+
+.spume-marketplace .learn-more-xn5xUi {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  width: 145px;
+}
+
+.spume-marketplace .the-first-fully-dece-dqyKzD {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 648px;
+  width: 338px;
+}
+
+.spume-marketplace .x2022-spume-dqyKzD {
+  background-color: transparent;
+  color: #828282;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 77px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 986px;
+  width: 213px;
+}
+
+.spume-marketplace .privacy-policy-dqyKzD {
+  background-color: transparent;
+  color: #d2d2d2;
+  font-family: var(--font-family-poppins);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1017px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 986px;
+  width: 213px;
+}
+
+.spume-marketplace .terms-of-privacy-dqyKzD {
+  background-color: transparent;
+  color: #d2d2d2;
+  font-family: var(--font-family-poppins);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1179px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 986px;
+  width: 213px;
+}
+
+.spume-marketplace .line-6-dqyKzD {
+  background-color: transparent;
+  height: 1px;
+  left: 83px;
+  position: absolute;
+  top: 946px;
+  width: 1280px;
+}
+
+.spume-marketplace .group-1308-dqyKzD {
+  background-color: transparent;
+  height: 1px;
+  left: 83px;
+  position: absolute;
+  top: 466px;
+  width: 1280px;
+}
+
+.spume-marketplace .line-6-sNiuGZ {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 1280px;
+}
+
+.spume-marketplace .find-us-on-social-media-dqyKzD {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 859px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  white-space: nowrap;
+  width: 456px;
+}
+
+.spume-marketplace .logo-2-dqyKzD {
+  background-color: transparent;
+  height: 72px;
+  left: 83px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 538px;
+  width: 73px;
+}
+
+.spume-marketplace .frame-19-dqyKzD {
+  align-items: center;
+  background: linear-gradient(rgb(155.00000596046448, 81.00000277161598, 224.000001847744) 19.717366993427277%, rgba(48.000000938773155, 129.00000751018524, 237.0000010728836, 0.800000011920929));
+  background-color: transparent;
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: 61px;
+  justify-content: center;
+  left: 104px;
+  mix-blend-mode: normal;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  position: absolute;
+  top: 345px;
+  width: 413px;
+}
+
+.spume-marketplace .suscribe-to-our-newsletter-9HMkEz {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 36px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .group-1312-dqyKzD {
+  background-color: transparent;
+  height: 226px;
+  left: 939px;
+  position: absolute;
+  top: 550px;
+  width: 287px;
+}
+
+.spume-marketplace .group-1309-D6DOUW {
+  background-color: transparent;
+  height: 166px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 154px;
+}
+
+.spume-marketplace .wallet-xiuXAX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 115px;
+}
+
+.spume-marketplace .collection-xiuXAX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  width: 148px;
+}
+
+.spume-marketplace .cart-xiuXAX {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  width: 106px;
+}
+
+.spume-marketplace .my-account-D6DOUW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 285px;
+}
+
+.spume-marketplace .group-1310-dqyKzD {
+  background-color: transparent;
+  height: 254px;
+  left: 743px;
+  position: absolute;
+  top: 550px;
+  width: 287px;
+}
+
+.spume-marketplace .support-sdPqfo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 285px;
+}
+
+.spume-marketplace .group-365-sdPqfo {
+  background-color: transparent;
+  height: 194px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 156px;
+}
+
+.spume-marketplace .fa-qs-hSD5GZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 115px;
+}
+
+.spume-marketplace .services-hSD5GZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  width: 107px;
+}
+
+.spume-marketplace .help-center-hSD5GZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  width: 150px;
+}
+
+.spume-marketplace .rectangle-327-dqyKzD {
+  background-color: var(--shark);
+  border: 1px solid #ffffff9c;
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 52px;
+  left: 104px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 262px;
+  width: 499px;
+}
+
+.spume-marketplace .your-email-adress-dqyKzD {
+  background-color: transparent;
+  color: #ffffff7d;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 275px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .join-our-newsletter-dqyKzD {
+  background-color: transparent;
+  color: #ffffffcf;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 104px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 156px;
+  width: auto;
+}
+
+.spume-marketplace .dont-miss-out-dqyKzD {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 103px;
+  letter-spacing: -1.00px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 88px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .rectangle-329-dqyKzD {
+  background-color: var(--shark);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 69px;
+  left: 858px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 69px;
+}
+
+.spume-marketplace .rectangle-330-dqyKzD {
+  background-color: var(--shark);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 69px;
+  left: 938px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 69px;
+}
+
+.spume-marketplace .rectangle-331-dqyKzD {
+  background-color: var(--shark);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 69px;
+  left: 1018px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 69px;
+}
+
+.spume-marketplace .rectangle-332-dqyKzD {
+  background-color: var(--shark);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 69px;
+  left: 1098px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 69px;
+}
+
+.spume-marketplace .rectangle-333-dqyKzD {
+  background-color: var(--shark);
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 69px;
+  left: 1178px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 218px;
+  width: 69px;
+}
+
+.spume-marketplace .discord-asset-73x-1-dqyKzD {
+  background-color: transparent;
+  height: 24px;
+  left: 956px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 34px;
+}
+
+.spume-marketplace .icon-twitter-dqyKzD {
+  background-color: transparent;
+  height: 26px;
+  left: 877px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 32px;
+}
+
+.spume-marketplace .tiktok-asset-93x-1-dqyKzD {
+  background-color: transparent;
+  height: 32px;
+  left: 1199px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 28px;
+}
+
+.spume-marketplace .icon-paper_plane-dqyKzD {
+  background-color: transparent;
+  height: 27px;
+  left: 1035px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 242px;
+  width: 32px;
+}
+
+.spume-marketplace .icon-instagram-dqyKzD {
+  background-color: transparent;
+  height: 32px;
+  left: 1117px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 32px;
+}
+
+.spume-marketplace .group-1311-dqyKzD {
+  background-color: transparent;
+  height: 226px;
+  left: 1178px;
+  position: absolute;
+  top: 550px;
+  width: 287px;
+}
+
+.spume-marketplace .group-365-igUJj3 {
+  background-color: transparent;
+  height: 166px;
+  left: 7px;
+  position: absolute;
+  top: 60px;
+  width: 121px;
+}
+
+.spume-marketplace .about-us-JdJ5Rx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 115px;
+}
+
+.spume-marketplace .services-JdJ5Rx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  width: 107px;
+}
+
+.spume-marketplace .contact-JdJ5Rx {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.60px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 136px;
+  width: 106px;
+}
+
+.spume-marketplace .company-igUJj3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 285px;
+}
+
+.spume-marketplace .additional-section-kkQcp5 {
+  background-color: transparent;
+  height: 522px;
+  left: 1px;
+  overflow: hidden;
+  position: absolute;
+  top: 2389px;
+  width: 1439px;
+}
+
+.spume-marketplace .additional-sections-here-MurlGC {
+  background-color: transparent;
+  height: auto;
+  left: 409px;
+  letter-spacing: -1.00px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 62px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .getting-started-kkQcp5 {
+  background-color: transparent;
+  height: 560px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1829px;
+  width: 1440px;
+}
+
+.spume-marketplace .connect-your-wallet-MaZJii {
+  background-color: transparent;
+  height: auto;
+  left: 151px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 373px;
+  width: 233px;
+}
+
+.spume-marketplace .click-my-collections-MaZJii {
+  background-color: transparent;
+  height: auto;
+  left: 482px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 373px;
+  width: 191px;
+}
+
+.spume-marketplace .group-1269-MaZJii {
+  background-color: transparent;
+  height: 64px;
+  left: 523px;
+  position: absolute;
+  top: 256px;
+  width: 68px;
+}
+
+.spume-marketplace .archive-24-SJebxQ {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 68px;
+}
+
+.spume-marketplace .upload-and-tokenize-MaZJii {
+  background-color: transparent;
+  height: auto;
+  left: 769px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 373px;
+  width: 202px;
+}
+
+.spume-marketplace .choose-between-aucti-MaZJii {
+  background-color: transparent;
+  height: auto;
+  left: 1067px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 365px;
+  width: 222px;
+}
+
+.spume-marketplace .lorem-ipsum-dolor-si-MaZJii {
+  background-color: transparent;
+  color: #e2e2e2;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.50px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 123px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .getting-started-MaZJii {
+  background-color: transparent;
+  height: auto;
+  left: 557px;
+  letter-spacing: -1.00px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .wallet-asset-113x-1-MaZJii {
+  background-color: transparent;
+  height: 61px;
+  left: 223px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 256px;
+  width: 68px;
+}
+
+.spume-marketplace .chose-asset-123x-1-MaZJii {
+  background-color: transparent;
+  height: 71px;
+  left: 1130px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 256px;
+  width: 70px;
+}
+
+.spume-marketplace .upload-asset-133x-1-MaZJii {
+  background-color: transparent;
+  height: 57px;
+  left: 816px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 256px;
+  width: 70px;
+}
+
+.spume-marketplace .trending-kkQcp5 {
+  background-color: transparent;
+  height: 771px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 1058px;
+  width: 1440px;
+}
+
+.spume-marketplace .trending-auctions-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 73px;
+  letter-spacing: -1.00px;
+  line-height: 72px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .rectangle-318-f59oET {
+  background-color: transparent;
+  height: 432px;
+  left: 82px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 286px;
+}
+
+.spume-marketplace .by-lulimperiali-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.spume-marketplace .icon-heart-f59oET {
+  background-color: transparent;
+  height: 24px;
+  left: 281px;
+  position: absolute;
+  top: 405px;
+  width: 25px;
+}
+
+.spume-marketplace .current-bid-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 559px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.spume-marketplace .place-a-bid-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 177px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 597px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.spume-marketplace .x144-eth-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 267px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 559px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.spume-marketplace .trending-1-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.spume-marketplace .x36-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 497px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.spume-marketplace .rectangle-320-f59oET {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 33px;
+  left: 124px;
+  position: absolute;
+  top: 594px;
+  width: 202px;
+}
+
+.spume-marketplace .group-1302-f59oET {
+  background-color: transparent;
+  height: 33px;
+  left: 102px;
+  position: absolute;
+  top: 311px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-426-3NXnkj {
+  background-color: transparent;
+  height: 31px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-427-3NXnkj {
+  background-color: transparent;
+  height: 39px;
+  left: -4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  width: 39px;
+}
+
+.spume-marketplace .unsplashru-jm3d-bx-cqw-f59oET {
+  background-color: transparent;
+  height: 239px;
+  left: 102px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 235px;
+  width: 246px;
+}
+
+.spume-marketplace .group-1307-f59oET {
+  background-color: transparent;
+  height: 432px;
+  left: 415px;
+  position: absolute;
+  top: 215px;
+  width: 292px;
+}
+
+.spume-marketplace .rectangle-321-wdyRse {
+  background-color: transparent;
+  height: 432px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 286px;
+}
+
+.spume-marketplace .current-bid-wdyRse {
+  background-color: transparent;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 345px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.spume-marketplace .place-a-bid-wdyRse {
+  background-color: transparent;
+  height: auto;
+  left: 95px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 383px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.spume-marketplace .x144-eth-wdyRse {
+  background-color: transparent;
+  height: auto;
+  left: 185px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 346px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.spume-marketplace .rectangle-322-wdyRse {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 33px;
+  left: 42px;
+  position: absolute;
+  top: 379px;
+  width: 202px;
+}
+
+.spume-marketplace .rectangle-323-f59oET {
+  background-color: transparent;
+  height: 432px;
+  left: 748px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 286px;
+}
+
+.spume-marketplace .icon-heart-3pYlYf {
+  background-color: transparent;
+  height: 24px;
+  left: 947px;
+  position: absolute;
+  top: 405px;
+  width: 25px;
+}
+
+.spume-marketplace .current-bid-3pYlYf {
+  background-color: transparent;
+  height: auto;
+  left: 790px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.spume-marketplace .place-a-bid-3pYlYf {
+  background-color: transparent;
+  height: auto;
+  left: 843px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 597px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.spume-marketplace .x144-eth-3pYlYf {
+  background-color: transparent;
+  height: auto;
+  left: 933px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 560px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.spume-marketplace .rectangle-324-f59oET {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 33px;
+  left: 790px;
+  position: absolute;
+  top: 594px;
+  width: 202px;
+}
+
+.spume-marketplace .unsplashw-n9-du73b8_s-f59oET {
+  background-color: transparent;
+  height: 239px;
+  left: 768px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 235px;
+  width: 246px;
+}
+
+.spume-marketplace .rectangle-325-f59oET {
+  background-color: transparent;
+  height: 432px;
+  left: 1081px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 215px;
+  width: 286px;
+}
+
+.spume-marketplace .icon-heart-IugJBB {
+  background-color: transparent;
+  height: 24px;
+  left: 1281px;
+  position: absolute;
+  top: 405px;
+  width: 25px;
+}
+
+.spume-marketplace .current-bid-IugJBB {
+  background-color: transparent;
+  height: auto;
+  left: 1123px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 558px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.spume-marketplace .place-a-bid-IugJBB {
+  background-color: transparent;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 597px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.spume-marketplace .x144-eth-IugJBB {
+  background-color: transparent;
+  height: auto;
+  left: 1270px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 559px;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.spume-marketplace .rectangle-326-f59oET {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 33px;
+  left: 1123px;
+  position: absolute;
+  top: 594px;
+  width: 202px;
+}
+
+.spume-marketplace .unsplash7p-qszt9-ki-ey-f59oET {
+  background-color: transparent;
+  height: 239px;
+  left: 1101px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 236px;
+  width: 246px;
+}
+
+.spume-marketplace .group-1318-f59oET {
+  background-color: transparent;
+  height: 36px;
+  left: 1243px;
+  position: absolute;
+  top: 112px;
+  width: 126px;
+}
+
+.spume-marketplace .view-all-J5k8sA {
+  background-color: transparent;
+  color: var(--iron);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .arrow-right-24-J5k8sA {
+  background-color: transparent;
+  height: 24px;
+  left: 100px;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+
+.spume-marketplace .vector-85-stroke-f59oET {
+  background-color: transparent;
+  height: 14px;
+  left: 1346px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 123px;
+  width: 18px;
+}
+
+.spume-marketplace .icon-heart-TF7l1p {
+  background-color: transparent;
+  height: 20px;
+  left: 293px;
+  position: absolute;
+  top: 500px;
+  width: 22px;
+}
+
+.spume-marketplace .by-lulimperiali-3pYlYf {
+  background-color: transparent;
+  height: auto;
+  left: 481px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 516px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.spume-marketplace .trending-2-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 477px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 501px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.spume-marketplace .x32-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 659px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 506px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.spume-marketplace .group-1314-f59oET {
+  background-color: transparent;
+  height: 33px;
+  left: 438px;
+  position: absolute;
+  top: 504px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-426-If0vxA {
+  background-color: transparent;
+  height: 31px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-427-If0vxA {
+  background-color: transparent;
+  height: 39px;
+  left: -4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -3px;
+  width: 39px;
+}
+
+.spume-marketplace .group-1320-f59oET {
+  background-color: transparent;
+  height: 33px;
+  left: 102px;
+  position: absolute;
+  top: 499px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-426-MHkjcb {
+  background-color: transparent;
+  height: 31px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-427-MHkjcb {
+  background-color: transparent;
+  height: 39px;
+  left: -4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -3px;
+  width: 39px;
+}
+
+.spume-marketplace .icon-heart-x2tNzZ {
+  background-color: transparent;
+  height: 20px;
+  left: 631px;
+  position: absolute;
+  top: 509px;
+  width: 22px;
+}
+
+.spume-marketplace .by-lulimperiali-IugJBB {
+  background-color: transparent;
+  height: auto;
+  left: 814px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 516px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.spume-marketplace .trending-3-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 810px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 501px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.spume-marketplace .x26-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 992px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 506px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.spume-marketplace .group-1315-f59oET {
+  background-color: transparent;
+  height: 33px;
+  left: 771px;
+  position: absolute;
+  top: 504px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-426-CSwjxr {
+  background-color: transparent;
+  height: 31px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-427-CSwjxr {
+  background-color: transparent;
+  height: 39px;
+  left: -4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -3px;
+  width: 39px;
+}
+
+.spume-marketplace .icon-heart-Uv7Eee {
+  background-color: transparent;
+  height: 20px;
+  left: 964px;
+  position: absolute;
+  top: 509px;
+  width: 22px;
+}
+
+.spume-marketplace .by-lulimperiali-TF7l1p {
+  background-color: transparent;
+  height: auto;
+  left: 1148px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 513px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.spume-marketplace .trending-4-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 1144px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.spume-marketplace .x15-f59oET {
+  background-color: transparent;
+  height: auto;
+  left: 1326px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 503px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.spume-marketplace .group-1316-f59oET {
+  background-color: transparent;
+  height: 33px;
+  left: 1105px;
+  position: absolute;
+  top: 501px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-426-3gemek {
+  background-color: transparent;
+  height: 31px;
+  left: -0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 31px;
+}
+
+.spume-marketplace .ellipse-427-3gemek {
+  background-color: transparent;
+  height: 39px;
+  left: -4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -3px;
+  width: 39px;
+}
+
+.spume-marketplace .icon-heart-szHMBL {
+  background-color: transparent;
+  height: 20px;
+  left: 1298px;
+  position: absolute;
+  top: 506px;
+  width: 22px;
+}
+
+.spume-marketplace .unsplash7p-qszt9-ki-ey-3pYlYf {
+  background-color: transparent;
+  height: 239px;
+  left: 438px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 235px;
+  width: 246px;
+}
+
+.spume-marketplace .main-kkQcp5 {
+  background-color: transparent;
+  height: 927px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 131px;
+  width: 1440px;
+}
+
+.spume-marketplace .rectangle-306-dYYfgx {
+  background-color: transparent;
+  height: 585px;
+  left: 872px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 504px;
+}
+
+.spume-marketplace .ellipse-133-dYYfgx {
+  background-color: #18b2de;
+  border-radius: 61.5px;
+  filter: blur(200px);;
+  height: 123px;
+  left: 1269px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 602px;
+  width: 123px;
+}
+
+.spume-marketplace .spume-is-the-first-f-dYYfgx {
+  background-color: transparent;
+  color: #e2e2e2;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 73px;
+  letter-spacing: 0.50px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 315px;
+  width: 637px;
+}
+
+.spume-marketplace .group-1317-dYYfgx {
+  background-color: transparent;
+  height: 60px;
+  left: 68px;
+  position: absolute;
+  top: 432px;
+  width: 469px;
+}
+
+.spume-marketplace .frame-13-SmxHkZ {
+  align-items: center;
+  background: linear-gradient(rgb(155.00000596046448, 81.00000277161598, 224.000001847744) 19.717366993427277%, rgba(48.000000938773155, 129.00000751018524, 237.0000010728836, 0.800000011920929));
+  background-color: transparent;
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 0px;
+  mix-blend-mode: normal;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  position: absolute;
+  top: 0px;
+  width: 218px;
+}
+
+.spume-marketplace .explore-RcOxcI {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .frame-14-SmxHkZ {
+  align-items: center;
+  background-color: transparent;
+  border: 1px solid var(--iron);
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  left: 251px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  position: absolute;
+  top: 0px;
+  width: 218px;
+}
+
+.spume-marketplace .create-sTQHMa {
+  background-color: transparent;
+  color: var(--iron);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .icon-heart-dYYfgx {
+  background-color: transparent;
+  height: 22px;
+  left: 1295px;
+  position: absolute;
+  top: 568px;
+  width: 24px;
+}
+
+.spume-marketplace .featured-nft-dYYfgx {
+  background-color: transparent;
+  height: auto;
+  left: 967px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 540px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .x182-eth-dYYfgx {
+  background-color: transparent;
+  height: auto;
+  left: 1287px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 538px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .by-lulimperiali-dYYfgx {
+  background-color: transparent;
+  color: var(--iron);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 967px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 568px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .group-1248-dYYfgx {
+  background-color: transparent;
+  height: 56px;
+  left: 902px;
+  position: absolute;
+  top: 539px;
+  width: 53px;
+}
+
+.spume-marketplace .ellipse-426-fWZVgl {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 53px;
+}
+
+.spume-marketplace .ellipse-427-fWZVgl {
+  background-color: transparent;
+  height: 61px;
+  left: -4px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 61px;
+}
+
+.spume-marketplace .x25-dYYfgx {
+  background-color: transparent;
+  height: auto;
+  left: 1326px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 567px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .unsplashog44d93i-n-jk-dYYfgx {
+  background-color: transparent;
+  height: 448px;
+  left: 900px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 60px;
+  width: 447px;
+}
+
+.spume-marketplace .frame-18-dYYfgx {
+  background-color: transparent;
+  height: 123px;
+  left: 68px;
+  overflow: hidden;
+  position: absolute;
+  top: 542px;
+  width: 597px;
+}
+
+.spume-marketplace .frame-16-kLoz3f {
+  background-color: transparent;
+  height: 114px;
+  left: 203px;
+  overflow: hidden;
+  position: absolute;
+  top: 9px;
+  width: 181px;
+}
+
+.spume-marketplace .x20k-fV6Ivr {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .auctions-fV6Ivr {
+  background-color: transparent;
+  height: auto;
+  left: 50px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .frame-15-kLoz3f {
+  background-color: transparent;
+  height: 114px;
+  left: -31px;
+  overflow: hidden;
+  position: absolute;
+  top: 9px;
+  width: 181px;
+}
+
+.spume-marketplace .x32k-N27gZx {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .artworks-N27gZx {
+  background-color: transparent;
+  height: auto;
+  left: 59px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .frame-17-kLoz3f {
+  background-color: transparent;
+  height: 114px;
+  left: 436px;
+  overflow: hidden;
+  position: absolute;
+  top: 9px;
+  width: 181px;
+}
+
+.spume-marketplace .x12k-ixpOO3 {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .creators-ixpOO3 {
+  background-color: transparent;
+  height: auto;
+  left: 52px;
+  letter-spacing: -1.00px;
+  line-height: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 66px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .image-1-dYYfgx {
+  background-color: transparent;
+  height: 69px;
+  left: 169px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 782px;
+  width: 275px;
+}
+
+.spume-marketplace .image-2-dYYfgx {
+  background-color: transparent;
+  height: 83px;
+  left: 528px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 768px;
+  width: 335px;
+}
+
+.spume-marketplace .image-3-dYYfgx {
+  background-color: transparent;
+  height: 70px;
+  left: 883px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 782px;
+  width: 413px;
+}
+
+.spume-marketplace .ellipse-132-dYYfgx {
+  background-color: #fb37ff;
+  border-radius: 61.5px;
+  filter: blur(200px);;
+  height: 123px;
+  left: 832px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -37px;
+  width: 123px;
+}
+
+.spume-marketplace .discover-collect-and-create-nf-ts-dYYfgx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 73px;
+  letter-spacing: -2.00px;
+  line-height: 82px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 107px;
+  width: 542px;
+}
+
+.spume-marketplace .header-kkQcp5 {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.spume-marketplace .rectangle-308-SxbCCb {
+  background-color: transparent;
+  height: 53px;
+  left: 1283px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 134px;
+}
+
+.spume-marketplace .group-1266-SxbCCb {
+  background-color: transparent;
+  height: 45px;
+  left: 1140px;
+  position: absolute;
+  top: 36px;
+  width: 126px;
+}
+
+.spume-marketplace .group-1249-1RNeRT {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 128px;
+}
+
+.spume-marketplace .create-mdSeLL {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: var(--font-family-poppins);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 36px;
+  letter-spacing: 1.50px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .rectangle-308-mdSeLL {
+  background-color: transparent;
+  border: 1px solid var(--iron);
+  border-radius: 10px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 126px;
+}
+
+.spume-marketplace .connect-SxbCCb {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 1320px;
+  letter-spacing: 1.50px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.spume-marketplace .group-1265-SxbCCb {
+  background-color: transparent;
+  height: 33px;
+  left: 720px;
+  position: absolute;
+  top: 48px;
+  width: 390px;
+}
+
+.spume-marketplace .explore-2q3cNy {
+  background-color: transparent;
+  height: 12px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 77px;
+}
+
+.spume-marketplace .collections-2q3cNy {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 120px;
+  letter-spacing: 1.50px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 123px;
+}
+
+.spume-marketplace .resources-2q3cNy {
+  background-color: transparent;
+  color: var(--silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 270px;
+  letter-spacing: 1.50px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.spume-marketplace .line-10-2q3cNy {
+  background-color: transparent;
+  height: 2px;
+  left: 7px;
+  position: absolute;
+  top: 32px;
+  width: 66px;
+}
+
+.spume-marketplace .spume-SxbCCb {
+  background-color: transparent;
+  height: 20px;
+  left: 108px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 52px;
+  width: 99px;
+}
+
+.spume-marketplace .rectangle-317-SxbCCb {
+  background-color: transparent;
+  border: 1px solid #ffffff9c;
+  border-radius: 9px;
+  box-shadow: 0px 4px 4px transparent , 0px 4px 4px transparent;
+  height: 41px;
+  left: 252px;
+  position: absolute;
+  top: 41px;
+  width: 338px;
+}
+
+.spume-marketplace .logo-1-SxbCCb {
+  background-color: transparent;
+  height: 53px;
+  left: 40px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 51px;
+}
+
+.spume-marketplace .icon-search-SxbCCb {
+  background-color: transparent;
+  height: 22px;
+  left: 262px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 22px;
+}

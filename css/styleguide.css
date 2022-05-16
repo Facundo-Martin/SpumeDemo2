@@ -1,0 +1,113 @@
+:root { 
+  --black: #000000;
+  --bon-jour: #e0e0e0;
+  --iron: #d7d7d7;
+  --mist-gray: #c4c4c4;
+  --shark: #1f2229;
+  --silver: #bcbcbc;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 10px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-open_sans_hebrew-bold: "Open Sans Hebrew-Bold", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.poppins-normal-iron-20px {
+  color: var(--iron);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-bon-jour-16px {
+  color: var(--bon-jour);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-bold-white-27px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-extra-light-iron-10px {
+  color: var(--iron);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 200;
+}
+
+.poppins-light-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-semi-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.opensanshebrew-bold-white-42px {
+  color: var(--white);
+  font-family: var(--font-family-open_sans_hebrew-bold);
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-silver-22px {
+  color: var(--silver);
+  font-family: var(--font-family-roboto);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-mist-gray {
+  border: 1px solid var(--mist-gray);
+}
